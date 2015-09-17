@@ -36,7 +36,11 @@
                 
                 <table width="500" cellpadding="0" cellspacing="0" border="0" style="min-width:500px; margin: 25px 0px;">
                     <tr>                
-                        <td align="center" valign="bottom"><a href="http://www.mrsfields.com/"><img src="http://www.mrsfields.com/files/h/40ad8f8eaeee.jpg" style="width: 193px; height: 93px; border: none;" alt="Mrs. Fields Gifts" /></a></td>
+                        <td align="center" valign="bottom">
+                            <a href="http://www.mrsfields.com/">
+                                <img src="http://www.mrsfields.com/files/h/40ad8f8eaeee.jpg" style="width: 193px; height: 93px; border: none;" alt="Mrs. Fields Gifts" />
+                            </a>
+                        </td>
                     </tr>
                 </table>
         
@@ -308,12 +312,14 @@
         
         <div style="border-top: 1px solid #d1d2d4; margin-top: 10px; font-size: 10px; color: #666666; font-family: Verdana, Arial, sans-serif; line-height: 14px;">
           <center>
-            <p><br /><b>10% off your order at mrsfields.com. 20% off when you spend $75 or more.</b><br />
+            <p><br /><b>$5 shipping on your order at mrsfields.com.</b><br />
               <br />
-              Must use code SEPTEMBER at checkout to receive discount.<br/>
-              Offer valid through 9/18/2015 at 2am EST. Offers only apply to orders under $500 and/or with fewer than 10 recipients. Not valid with any other discount or on previous orders.<br /><br />
-              &copy; 2015 Mrs. Fields Gifts, Inc.<br />
-              All Rights Reserved. 1717 S 4800 W, Salt Lake City, UT 84104.<br />
+              Must use code FLATSHIP5 at checkout to receive discount.
+              Offer valid through 9/21/2015 at 2am EST. Offers only apply to
+              orders under $500 and/or with fewer than 10 recipients.
+              Not valid with any other discount or on previous orders.<br /><br />
+              &copy; 2015 Mrs. Fields Gifts, Inc. All Rights Reserved.<br />
+              1717 S 4800 W, Salt Lake City, UT 84104<br />
               <br />
               <a href="http://www.mrsfields.com" target="_blank" title="Go to mrsfields.com">www.mrsfields.com</a>&nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;<a href="1-800-COOKIES" target="_blank" style="text-decoration: none; color: #666666;">1-800-COOKIES<span class="reg"><sup style="font-size: 6px;">&reg;</sup></span></a><br />
               <br />
