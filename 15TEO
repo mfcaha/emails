@@ -45,10 +45,10 @@
         
         <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; max-width: 500px;">
             <tr>
-                <td valign="top">
+                <td valign="top" align="center">
                 
                     <!-- SMALL TEXT -->
-                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; color: #666666; font-size: 10px;">
+                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; color: #666666; font-size: 10px;">
                         <tr>
                             <td align="left">
                                 $5 OFF - Now you can create your own gift!&nbsp;
@@ -60,18 +60,18 @@
                     </table>
                     
                     <!-- MFC LOGO -->
-                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 25px auto;">
+                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 25px auto;">
                         <tr>                
                             <td align="center" valign="bottom">
-                                <a href="http://www.mrsfields.com/">
-                                    <img src="http://www.mrsfields.com/files/h/40ad8f8eaeee.jpg" style="width: 33%; border: none;" alt="Mrs. Fields Gifts" />
+                                <a href="http://www.mrsfields.com/email/?id=15TEO&link=/&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=Logo&utm_campaign=15TEO">
+                                    <img src="http://www.mrsfields.com/files/h/40ad8f8eaeee.jpg" style="width: 193px; height: 93px; border: none;" alt="Mrs. Fields Gifts" />
                                 </a>
                             </td>
                         </tr>
                     </table>
 
                     <!-- TOP NAV -->
-                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 5px auto;">
+                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 5px auto;">
                         <tr>
                             <td class="nav" align="center" style="text-align: center; margin: 10px 0px; padding: 0px; font-size: 100%;">
                                 <a href="http://www.mrsfields.com/email/?id=15TEO&link=/categories/Fall_Gifts_Collection&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15TEO" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">FALL</a>
@@ -91,28 +91,28 @@
         </table>
                    
 
-        <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; max-width: 500px;">
+        <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; min-width: 500px;">
             <tr>
-                <td width="100%" valign="top" style="padding-bottom: 25px;">
+                <td width="500" valign="top" style="padding-bottom: 25px;">
 
                     <!-- SKINNY BANNER -->
                     <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top: 5px;">
                         <tr>
                             <td valign="top">
                                 <a href="http://www.mrsfields.com/email/?id=15TEO&link=/create&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TEO" target="_blank" title="Shop Now">
-                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/f7a2731faadb.jpg" width="100%" border="none" alt="SAVE $5 when you create your own gift" />
+                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/f7a2731faadb.jpg" width="500" border="none" alt="SAVE $5 when you create your own gift" />
                                 </a>
                             </td>
                         </tr>
                     </table>
 
                     <!-- HERO/FEATURE -->
-                    <table cellpadding="0" cellspacing="0" border="0">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
                         <tr>
-                            <td align="Left" valign="top">
+                            <td valign="top">
                                 <div style="margin-top: 5px;">
                                     <a href="http://www.mrsfields.com/email/?id=15TEO&link=/create&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TEO" target="_blank" title="Shop Now">
-                                        <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/bbd7b3b22163.jpg" width="100%" border="none" alt="SAVE $5 when you create your own gift" />
+                                        <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/bbd7b3b22163.jpg" width="500" border="none" alt="SAVE $5 when you create your own gift" />
                                     </a>
                                 </div>
                              </td>
@@ -120,12 +120,12 @@
                     </table>
 
                     <!-- BANNER -->
-                    <table cellpadding="0" cellspacing="0" border="0">
+                    <table align="center" cellpadding="0" cellspacing="0" border="0">
                         <tr>
-                            <td align="Left" valign="top">
+                            <td valign="top">
                                 <div style="margin-top: 5px;">
                                     <a href="http://www.mrsfields.com/email/?id=15TEO&link=/categories/Fall_Gifts_Collection&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TEO" target="_blank" title="Shop Fall Gifts">
-                                        <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/dddd2c4f306b.jpg" width="100%" border="none" alt="Check out these fall favorites" />
+                                        <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/dddd2c4f306b.jpg" width="500" border="none" alt="Check out these fall favorites" />
                                     </a>
                                 </div>
                             </td>
@@ -133,21 +133,21 @@
                     </table>
 
                     <!-- CATEGORY BUCKETS -->
-                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width:500px; margin-top: 5px;">
+                    <table align="center" width="500" cellpadding="0" cellspacing="0" border="0" style="margin-top: 5px;">
                         <tr>
-                            <td width="33%" align="Left" valign="top">
-                                <a href="http://www.mrsfields.com/gifts/I-Love-Fall-Box&link=/gifts/I-Love-Fall-Box&utm_source=15TED&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TED" target="_blank">
-                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/72c1d7c84d67.jpg" width="100%" border="none" alt="I Love Fall Box" />
+                            <td width="167" align="Left" valign="top">
+                                <a href="http://www.mrsfields.com/gifts/I-Love-Fall-Box&link=/gifts/I-Love-Fall-Box&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TEO" target="_blank">
+                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/72c1d7c84d67.jpg" width="167" border="none" alt="I Love Fall Box" />
                                 </a>
                             </td>
-                            <td width="33%" align="center" valign="top">
-                                <a href="http://www.mrsfields.com/email/?id=15TED&link=/gifts/Pumpkin-Box-15&utm_source=15TED&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TED" target="_blank">
-                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/9eae9e524f3e.jpg"  width="100%" border="none" alt="Pumpkin Box" />
+                            <td width="167" align="center" valign="top">
+                                <a href="http://www.mrsfields.com/email/?id=15TEO&link=/gifts/Pumpkin-Box-15&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TEO" target="_blank">
+                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/9eae9e524f3e.jpg"  width="167" border="none" alt="Pumpkin Box" />
                                 </a>
                             </td>
-                            <td width="33%" align="right" valign="top">
-                                <a href="http://www.mrsfields.com/email/?id=15TED&link=/gifts/Happy-Fall-Basket&utm_source=15TED&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TED" target="_blank">
-                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/7fb19834ce71.jpg"  width="100%" border="none" alt="Happy Fall Basket" />
+                            <td width="167" align="right" valign="top">
+                                <a href="http://www.mrsfields.com/email/?id=15TEO&link=/gifts/Happy-Fall-Basket&utm_source=15TEO&utm_medium=Email&utm_term=fall&utm_content=footer&utm_campaign=15TEO" target="_blank">
+                                    <img style="display: block; border: none;" src="http://www.mrsfields.com/files/h/7fb19834ce71.jpg"  width="167" border="none" alt="Happy Fall Basket" />
                                 </a>
                             </td>
                         </tr>
@@ -158,34 +158,34 @@
         </table>           
 
         <!-- FOOTER: SOCIAL -->   
-        <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
+        <table width="500" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
             <tr>
                 <td>
                     <hr style="border: 1px dotted #ebebeb;">
                     <br />
-                    <table align="center" width="65%" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
+                    <table align="center" width="300" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; min-width: 300px;">
                         <tr>
                             <td align="center" valign="top">
                                 <a href="https://www.facebook.com/mrsfieldscookies" target="_blank">
-                                    <img src="http://www.mrsfields.com/files/h/46c787d9a331.png" style="width: 70%; border: none; display: block;" alt="Facebook" />
+                                    <img src="http://www.mrsfields.com/files/h/46c787d9a331.png" style="width: 48px; height: 48px; border: none; display: block;" alt="Facebook" />
                                 </a>
                             </td>
                             <td style="width: 5px;">&nbsp;</td>
                             <td align="center" valign="top">
                                 <a href="https://twitter.com/#!/mrsfields" target="_blank">
-                                    <img src="http://www.mrsfields.com/files/h/b3999d5d5389.png" style="width: 70%; border: none; display: block;" alt="Twitter" />
+                                    <img src="http://www.mrsfields.com/files/h/b3999d5d5389.png" style="width: 48px; height: 48px; border: none; display: block;" alt="Twitter" />
                                 </a>
                             </td>
                             <td style="width: 5px;">&nbsp;</td>
                             <td align="center" valign="top">
                                 <a href="http://pinterest.com/mrsfields/" target="_blank">
-                                    <img src="http://www.mrsfields.com/files/h/1bddb400bf5f.png" style="width: 70%; border: none; display: block;" alt="Pinterest" />
+                                    <img src="http://www.mrsfields.com/files/h/1bddb400bf5f.png" style="width: 48px; height: 48px; border: none; display: block;" alt="Pinterest" />
                                 </a>
                             </td>
                             <td style="width: 5px;">&nbsp;</td>
                             <td align="center" valign="top">
                                 <a href="https://plus.google.com/u/0/114513627265212263895/posts">
-                                    <img src="http://www.mrsfields.com/files/h/de9eeb13face.png" style="width: 70%; border: none; display: block;" alt="Google Plus" />
+                                    <img src="http://www.mrsfields.com/files/h/de9eeb13face.png" style="width: 48px; height: 48px; border: none; display: block;" alt="Google Plus" />
                                 </a>
                             </td>
                         </tr>
@@ -196,7 +196,7 @@
         </table>                
 
         <!-- CONTACT INFO -->
-        <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px auto; max-width: 500px;">
+        <table align="center" width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 10px auto; min-width: 500px;">
             <tr>
                 <td>
                     <table align="center" cellpadding="0" cellspacing="0" border="0">
@@ -216,13 +216,13 @@
 
        
         <!-- FOOTER LINKS -->
-        <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 10px auto; max-width: 500px;">
+        <table align="center" width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 10px auto; min-width: 500px;">
             <tr>
                 <td>
                     <br />
-                    <table width="100%" align="center" class="footerText1" id="footer1" border="0" cellpadding="0" cellspacing="0" style="text-align: center; font-family: Verdana, Arial, sans-serif; margin-bottom: 25px;">
+                    <table width="500" align="center" class="footerText1" id="footer1" border="0" cellpadding="0" cellspacing="0" style="text-align: center; font-family: Verdana, Arial, sans-serif; margin-bottom: 25px;">
                         <tr>
-                            <th width="32%" scope="col" valign="top">
+                            <th width="167" scope="col" valign="top">
                                 <div class="nav" id="footer01">
                                     <span class="footerHead1x" style="color: #666666; font-weight: bold;" valign="top">SIGNATURE GIFTS</span><br />
                                     <span class="footergreyx" style="font-weight: normal;">
@@ -234,7 +234,7 @@
                                     <br />
                                 </div>
                             </th>
-                            <th width="31%" scope="col" valign="top">
+                            <th width="167" scope="col" valign="top">
                                 <div class="nav" id="footer2">
                                     <span class="footerHead1x" style="color: #666666; font-weight: bold;" valign="top">SHOP BY PRODUCT</span><br />
                                     <span class="footergreyx" style="font-weight: normal;">
@@ -246,7 +246,7 @@
                                     <br />
                                 </div>
                             </th>
-                            <th width="26%" scope="col" valign="top">
+                            <th width="167" scope="col" valign="top">
                                 <div class="nav" id="footer3">
                                     <span class="footerHead1x" style="color: #666666; font-weight: bold;" valign="top">BUSINESS GIFTS</span><br />
                                     <span class="footergreyx" style="font-weight: normal;">
@@ -263,7 +263,7 @@
                     <hr style="border: 1px dotted #ebebeb;">
 
                     <!-- PROMO DETAILS + SMALL TYPE -->
-                    <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
+                    <table align="center" width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
                         <tr>
                             <td style="text-align: center; width: 500px; font-size: 10px; -webkit-text-resize: none; color: #666666; font-family: Verdana, Arial, sans-serif; line-height: 18px;">
                               <center>
