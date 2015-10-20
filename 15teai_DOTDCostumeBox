@@ -284,15 +284,20 @@
                 
                     <hr style="border: 1px dotted #ebebeb;">
 
-                    <!-- PROMO DETAILS + SMALL TYPE -->
+                     <!-- PROMO DETAILS + SMALL TYPE -->
                     <table align="center" width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
                         <tr>
                             <td style="text-align: center; width: 500px; font-size: 10px; -webkit-text-resize: none; color: #666666; font-family: Verdana, Arial, sans-serif; line-height: 18px;">
                               <center>
-                                <p><br /><b>Save 25% when you purchase today's featured deal.</b><br />
+                                <p><br />
+                                    <b>Save 25% when you purchase today's featured deal.</b><br/>
+                                    Must use code DAILYDEAL at checkout to receive 25% off discount. <br />Offer valid through 10/22/2015 at 2am EST.
+                                    <br /><br />
+                                    <b>Save 15% off all other gifts when you order from mrsfields.com.</b><br />
+                                    Must use code TREATME at checkout to receive 15% off discount. <br />Offer valid through 10/24/2015 at 2am EST.
                                   <br />
-                                  Must use code DAILYDEAL at checkout to receive 25% off discount.
-                                  Offer valid through 10/22/2015 at 2am EST. Offers only apply to
+                                  <br />
+                                  Offers only apply to
                                   orders under $500 and/or with fewer than 10 recipients.
                                   Not valid with any other discount or on previous orders.<br /><br />
                                   &copy; 2015 Mrs. Fields Gifts, Inc. All Rights Reserved.<br />
