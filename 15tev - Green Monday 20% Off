@@ -123,21 +123,21 @@
                         <tr>
                             <!-- ROW 1 -->
                             <td valign="top" align="left">
-                                <table align="center" cellpadding="0" cellspacing="0" border="1">
+                                <table align="center" cellpadding="0" cellspacing="0" border="0">
                                     <tr>
-                                        <td valign="top" align="left" height="175">
-                                            <a href="https://www.mrsfields.com/email/?id=15tev&link=/gifts/Welcome-Wreath-Box&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="Shop Now">
-                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/61067ca12440.jpg" width="160" border="none" alt="" />
+                                        <td valign="top" align="left">
+                                            <a href="https://www.mrsfields.com/email/?id=15tev&link=/gifts/Fields-Exclusive-Gift-Box&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="Shop Now">
+                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/2511cc65913b.jpg" width="172" border="none" alt="FIELDS EXCLUSIVE GIFT BOX" />
                                             </a>  
                                         </td>
                                         <td valign="top" align="left">
-                                            <a href="https://www.mrsfields.com/email/?id=15tev&link=/gifts/Tasty-Tidings-Mini-Trunk&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="Shop Now">
-                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/61067ca12440.jpg" width="160" border="none" alt="" />
+                                            <a href="https://www.mrsfields.com/email/?id=15tev&link=/gifts/Mr-Claus-Cookie-Cake&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="Shop Now">
+                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/3965593fd072.jpg" width="156" border="none" alt="MR. CLAUS COOKIE CAKE" />
                                             </a>  
                                         </td>
                                         <td valign="top" align="left">
-                                            <a href="https://www.mrsfields.com/email/?id=15tev&link=/gifts/Tasty-Tidings-Mini-Trunk&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="Shop Now">
-                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/61067ca12440.jpg" width="160" border="none" alt="" />
+                                            <a href="https://www.mrsfields.com/email/?id=15tev&link=/gifts/mrs-fields-peppermint-bark-tin&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="Shop Now">
+                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/76e9ab35ecf3.jpg" width="171" border="none" alt="MRS. FIELDS PEPPERMINT BARK TIN" />
                                             </a>  
                                         </td>
                                     </tr>
@@ -150,11 +150,9 @@
                     <table align="center" cellpadding="0" cellspacing="0" border="0">
                         <tr>
                             <td valign="top">
-                                <div style="margin-top: 5px;">
-                                    <a href="https://www.mrsfields.com/email/?id=15tev&link=/categories/Holiday_cookie_gift_collection&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="">
-                                        <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/61067ca12440.jpg" width="500" border="none" alt="Christmas is a little over a week away!" />
-                                    </a>
-                                </div>
+                                <a href="https://www.mrsfields.com/email/?id=15tev&link=/categories/Holiday_cookie_gift_collection&utm_source=15tev&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=15tev" target="_blank" title="">
+                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/61067ca12440.jpg" width="500" border="none" alt="Christmas is a little over a week away!" />
+                                </a>
                              </td>
                          </tr>
                     </table>
@@ -166,7 +164,7 @@
         <table width="500" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;">
             <tr>
                 <td>
-                    <!--hr style="border: 1px dotted #ebebeb;"-->
+                    <hr style="border: 1px dotted #ebebeb;" />
                     <br />
                     <table align="center" width="300" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; min-width: 300px;">
                         <tr>
