@@ -1,0 +1,316 @@
+<html>
+<head>
+<title>Abandon Cart Email</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+	<style>
+			
+		/* To prevent text resizing on mobile devices (to ensure best visual quality) */
+		html { 
+	        -webkit-text-size-adjust: 100%;
+	        -moz-text-size-adjust: 100%;
+	        -ms-text-size-adjust: 100%;
+	    }
+
+	    /* To prevent gmail-specific auto formatting */
+	    .gs li {
+	    	margin-left: 0px;
+	    }
+	    .hx .gs {
+		    margin-left: 0px !important;
+		}
+		
+	</style>
+</head>
+
+<!--POST
+   var discountCode = user.attr("discountCode");
+   var fname = user.attr("fname");
+
+	if (discountCode == "" || discountCode ==" " || discountCode == null) { 
+		discountCode = "Static Default Code";
+	}
+
+	if (fname == "" || fname == " " || fname == null) {
+		fname = "Valued Customer";
+	}
+
+	/*
+		// sample content for testing //
+
+		abandonedThumb = ""
+		abandonedHref = "https://www.mrsfields.com/gifts/Red-Plaid-Ultimate-Bundle/?c=0";
+		abandonedTitle = "Red Plaid Ultimate Bundle"
+	*/
+POST-->
+
+<body background-color="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<img src="https://link.email-mrsfields.com/1x1.dyn" width="1" height="1" border="0">
+
+<table width="500" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; max-width: 500px;">
+	<tr>
+		<td>
+			<!-- THIS IS WHERE EMAIL CONTENT GOES -->
+			<table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 15px auto 0px auto;" align="center">
+				<tr>
+					<!-- HEADER -->
+					<td align="center">
+						
+						<table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; font-size: 12px !important; color: #a7a9ab;">
+							<tr>
+								<td align="left" width="300" style="padding-left: 0px;">
+									Sweet treats are waiting for you!&nbsp;
+								</td>
+								<td align="right" width="200" style="padding-right: 0px;">
+									View in <a href="@HTML_PREVIEW_LINK&msgVersion=web" target="_blank" title="View in browser" style="color: #a7a9ab;">Browser</a>&nbsp;
+								</td>
+							</tr>
+						</table>
+
+						<!-- LOGO -->
+						<table width="500" cellpadding="0" cellspacing="0" border="0" style="min-width:500px; margin: 25px 0px;">
+		                    <tr>                
+		                        <td align="center" valign="bottom">
+		                        	<a href="https://www.mrsfields.com/email/?id=15teq&link=/&utm_source=15teq&utm_medium=email&utm_term=holiday&utm_content=Logo&utm_campaign=15teq" target="_blank">
+		                        		<img src="https://www.mrsfields.com/files/h/40ad8f8eaeee.jpg" style="width: 193px; height: 93px; border: none;" alt="Mrs. Fields Gifts" />
+	                        		</a>
+                        		</td>
+		                    </tr>
+		                </table>
+					</td>
+				</tr>
+
+				<tr>
+					<!-- TOP NAV-->
+					<td width="500" align="center" style="font-size: 13px;">
+						<center>
+				            <div>
+			                    <span style="padding: 0px 10px; color: #666666; font-family: Verdana, arial, helvetica, sans-serif;">
+				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/categories/Winter-Collection-15&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="text-decoration: none; color: #000001;" target="_blank">WINTER</a>
+				                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
+				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/business/&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="color: #000001; text-decoration: none;" target="_blank">CORPORATE</a>
+				                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
+				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/categories/birthday_cookie_gifts_baskets&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="color: #000001; text-decoration: none;" target="_blank">BIRTHDAY</a>
+				                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
+				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/categories/thank_you_gifts_baskets&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="color: #000001; text-decoration: none;" target="_blank">THANK YOU</a>
+				                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
+				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/categories/cookies&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="color: #000001; text-decoration: none;" target="_blank">COOKIES</a>
+				                </span>
+				            </div>
+			           </center>
+					</td>
+				</tr>
+				<tr>
+					<td width="500" align="center">
+						<center>
+						
+						<hr style="border: 1px dotted #ebebeb; margin: 10px auto;" />
+						
+						<!-- DESKTOP MAIN: Hero -->
+						<table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, sans-serif;">
+							<tr>
+								<!-- left column -->
+								<td>
+									<table width="230" cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td>
+												<span style="font-size: 24px; color: #be1e2d; display: block; margin: 10px 0px;">`fname`,</span>
+												<span style="font-size: 14px; color: #000001; display: block; margin: 0px 0px 10px 0px;">
+													We noticed you still have items in your cart.<br /><br />
+													Order now and become an awesome person.<br /><br />
+													Officially.<br /><br />
+												</span>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table cellpadding="0" cellspacing="0" border="0">
+													<tr>
+														<!-- cta button -->
+														<td width="140">
+															<a href="https://www.mrsfields.com/" title="" target="_blank">
+																<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/5d8efb467b8e.jpg" width="140" height="30" />
+															</a>
+														</td>
+														<!-- text -->
+														<td>
+															<span style="font-size: 10px; align: left; padding-left: 10px; display: block;">
+																Not logged in?<br />
+																Click <a href="https://www.mrsfields.com/account/login/" target="_blank" style="color: #be1e2d;">here.</a>
+															</span>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td>&nbsp;</td>
+										</tr>
+									</table>
+								</td>
+								<td width="10">&nbsp;</td>
+
+								<!-- right column -->
+								<td>
+									<table width="250" cellpadding="0" cellspacing="0" border="0" align="right">
+										<tr>
+											<td valign="top" align="right">
+												<a href="`abandonedHref`" title="`abandonedTitle`" target="_blank">
+													<img style="display: block; border: none;" src="`abandonedThumb`" width="250" height="250" />
+												</a>
+											</td>
+										</tr>
+										<tr>
+											<td style="font-size: 12px; color: #000001; text-align: center; padding-top: 10px;">
+												<a href="`abandonedHref`" title="" target="_blank" style="text-decoration: none; color: #000001;">
+													<span style="color: #be1e2d; text-transform: uppercase; font-weight: 600;">`abandonedTitle`</span><br />
+													`abandonedTotal`
+												</a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+
+						<!-- BANNER: Gift Like You Mean It -->
+						<table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 15px auto;">
+							<tr>
+								<td>
+									<a href="https://www.mrsfields.com/" title="Shop Mrs. Fields Gifts" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/0914a5a87c66.jpg" alt="More Great Gift Ideas" />
+									</a>
+								</td>
+							</tr>
+						</table>
+
+
+						<!-- PRODUCT CATEGORIES -->
+						<table width="500" cellpadding="0" cellspacing="0" border="0">
+							<tr>
+								<td>
+									<!-- PROD ROW 1 -->
+									<table width="500" height="205" cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td>
+												<!-- PROD CAT: Birthday -->
+												<a href="https://www.mrsfields.com/categories/birthday_cookie_gifts_baskets" title="Shop Birthday Gifts" target="_blank">
+													<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/c26b854fdc16.jpg" alt="Birthday" />
+												</a>
+											</td>
+											<td>
+												<!-- PROD CAT: Thank You -->
+												<a href="https://www.mrsfields.com/categories/thank_you_gifts_baskets" title="Shop Thank You Gifts" target="_blank">
+													<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/e1b1d9468f28.jpg" alt="Thank You" />
+												</a>
+											</td>
+											<td>
+												<!-- PROD CAT: Sympathy -->
+												<a href="https://www.mrsfields.com/categories/With_Sympathy" title="Shop Sympathy Gifts" target="_blank">
+													<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/84fa02f47dcf.jpg" alt="Sympathy" />
+												</a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+
+						<hr style="border: 1px dotted #ebebeb; margin: 10px auto;" />
+
+						<!-- SOCIAL FOOTER - no UL -->
+						<table width="500" height="50" cellpadding="0" cellspacing="0" border="0" style="padding: 25px 0px;">
+							<tr>
+								<td align="left" style="float: left; width: 15px; margin-left: 5px;">&nbsp;</td>
+								<td align="left" style="float: left; margin-right: 3px; margin-left: 0px;">
+									<a href="https://www.facebook.com/mrsfieldscookies" title="Facebook" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/9d23a12b0df9.jpg" width="55" height="50" alt="Facebook" />
+									</a>
+								</td>
+								<td align="left" style="float: left; margin-right: 3px; margin-left: 0px;">
+									<a href="https://twitter.com/mrsfields" title="Twitter" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/ef86611dcea8.jpg" width="55" height="50" alt="Twitter" />
+									</a>
+								</td>
+								<td align="left" style="float: left; margin-right: 3px; margin-left: 0px;">
+									<a href="https://www.youtube.com/user/MrsFieldsGifts" title="YouTube" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/c33402cb59b2.jpg" width="55" height="50" alt="YouTube" />
+									</a>
+								</td>
+								<td align="left" style="float: left; margin-right: 3px; margin-left: 0px;">
+									<a href="https://www.pinterest.com/mrsfields/" title="Pinterest" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/863d24eaf7e0.jpg" width="55" height="50" alt="Pinterest" />
+									</a>
+								</td>
+								<td align="left" style="float: left; margin-right: 3px; margin-left: 0px;">
+									<a href="https://www.instagram.com/mrsfieldscookies/" title="Instagram" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/66b92ab4b4a2.jpg" width="55" height="50" alt="Instagram" />
+									</a>
+								</td>
+								<td align="left" style="float: left; margin-right: 3px; margin-left: 0px;">
+									<a href="https://plus.google.com/+mrsfieldscookies/posts" title="Google+" target="_blank">
+										<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/65111457d723.jpg" width="55" height="50" alt="Google+" />
+									</a>
+								</td>
+								<td align="left" style="float: left; margin-left: 6px;">
+									<a href="https://www.mrsfields.com/blogs/" title="Mrs. Fields Secrets" target="_blank">
+										<img style="display: block; border: none;" id="blog" src="https://www.mrsfields.com/files/h/1d1ddceb997f.jpg" width="100" height="49" alt="Blog" />
+									</a>
+								</td>
+								<td align="left" style="float: left; width: 15px; margin-left: 0px;">&nbsp;</td>
+							</tr>
+						</table>
+
+						<!-- FOOTER SM TEXT -->
+						<table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; line-height: 16px; -webkit-text-size-adjust: none;">
+							<tr>
+								<!-- STORE LOCATOR, NEED HELP? -->
+								<td width="500" align="center" style="padding-bottom: 30px; font-size: 13px;">
+									<center>
+							            <div id="footer">
+							                <span style="padding: 25px 10px; color: #666666; font-family: Verdana, arial, helvetica, sans-serif;">
+							                    <a href="https://www.mrsfields.com/stores/" target="_blank" style="text-decoration: none; color: #000001;">STORE LOCATOR</a>
+							                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
+							                    <a href="https://www.mrsfields.com/contact/" target="_blank" style="text-decoration: none; color: #000001;">NEED HELP?</a>
+							                    &nbsp;<span style="color: #d1d2d4;" target="_blank">&#124;</span>&nbsp;
+							                    <a href="tel: 18002665437" target="_blank" style="text-decoration: none; color: #000001;">1-800-COOKIES<span class="reg"><sup style="font-size: 6px;">&reg;</sup></span></a>
+							                </span>
+							            </div>
+						            </center>
+								</td>
+							</tr>
+							
+							<tr>
+								<!-- UNSUBSCRIBE -->
+								<td width="500" align="center" style="padding-bottom: 15px; color: #a7a9ab;">
+									<span style="font-size: 13px; line-height: 16px; color: #a7a9ab;">
+										Be sure to add Mrs. Fields Gifts mrsfieldsgifts<span>@</span>email-mrsfields<span>.com</span> to your address book or safe sender list so our emails get to your inbox.
+										If you wish to be removed from our email list <a href="https://email-mrsfields.com/unsubscribe.jsp" target="_blank" title="Unsubscribe" style="color: #a7a9ab;">click here</a>.<br />
+									</span>
+								</td>
+							</tr>
+							<tr>
+								<!-- COPYRIGHT & ADDRESSES -->
+								<td width="500" align="center" style="color: #a7a9ab;">
+									<span style="font-size: 13px; line-height: 16px;">
+										1717 S<span> 4800 </span>W, <span>Sal</span>t Lake City<span>, </span>UT 841<span>04</span><br/>
+										<a href="https://www.mrsfields.com/" target="_blank" title="Shop Mrs. Fields Now" style="color: #a7a9ab;">www.mrsfields.com</a>
+										&nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
+										<a href="tel: 18002665437" style="text-decoration: none; color: #a7a9ab;">1-800-COOKIES<sup style="font-size: 5px;">&reg;</sup></a><br /><br />
+										&copy; Mrs. Fields Gifts, Inc. 2015. All Rights Reserved.<br /><br />
+									</span>
+								</td>
+							</tr>
+						</table>
+						</center>
+					</td>
+				</tr>
+			</table><!-- end of email content -->
+		</td>
+	</tr> 
+</table><!-- end of all things -->
+
+</body>
+</html>
