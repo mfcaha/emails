@@ -25,24 +25,29 @@
 </head>
 
 <!--POST
+
    var discountCode = user.attr("discountCode");
-   var fname = user.attr("fname");
+   var firstName = user.attr("firstName");
 
 	if (discountCode == "" || discountCode ==" " || discountCode == null) { 
 		discountCode = "Static Default Code";
 	}
 
-	if (fname == "" || fname == " " || fname == null) {
-		fname = "Valued Customer";
+	if (firstName == "" || firstName == " " || firstName == null) {
+		firstName = "Valued Customer";
 	}
+	
+	var product_url = user.attr("product_url");
+	//var product_href = user.attr("product_href");
+	var title_short = user.attr("title_short");
+	var price = user.attr("price");
 
-	/*
-		// sample content for testing //
+	firstName = "Thumbelina";
+	product_url = "https://www.mrsfields.com/files/h/d243b79a788f.jpg";
+	//product_href = "https://www.mrsfields.com/gifts/Red-Plaid-Ultimate-Bundle/?c=0";
+	title_short = "Red Plaid Ultimate Bundle";
+	price = "$12.99"
 
-		abandonedThumb = ""
-		abandonedHref = "https://www.mrsfields.com/gifts/Red-Plaid-Ultimate-Bundle/?c=0";
-		abandonedTitle = "Red Plaid Ultimate Bundle"
-	*/
 POST-->
 
 <body background-color="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -61,7 +66,7 @@ POST-->
 						<table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; font-size: 12px !important; color: #a7a9ab;">
 							<tr>
 								<td align="left" width="300" style="padding-left: 0px;">
-									Sweet treats are waiting for you!&nbsp;
+									`firstName`, you still interested?&nbsp;
 								</td>
 								<td align="right" width="200" style="padding-right: 0px;">
 									View in <a href="@HTML_PREVIEW_LINK&msgVersion=web" target="_blank" title="View in browser" style="color: #a7a9ab;">Browser</a>&nbsp;
@@ -88,7 +93,7 @@ POST-->
 						<center>
 				            <div>
 			                    <span style="padding: 0px 10px; color: #666666; font-family: Verdana, arial, helvetica, sans-serif;">
-				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/categories/Winter-Collection-15&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="text-decoration: none; color: #000001;" target="_blank">WINTER</a>
+				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=search/?q=candy&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="text-decoration: none; color: #000001;" target="_blank">CANDY</a>
 				                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
 				                    <a href="https://www.mrsfields.com/email/?id=15teq&link=/business/&utm_source=15teq&utm_medium=Email&utm_term=fall&utm_content=Nav&utm_campaign=15teq" style="color: #000001; text-decoration: none;" target="_blank">CORPORATE</a>
 				                    &nbsp;<span style="color: #d1d2d4;">&#124;</span>&nbsp;
@@ -113,10 +118,10 @@ POST-->
 							<tr>
 								<!-- left column -->
 								<td>
-									<table width="230" cellpadding="0" cellspacing="0" border="0">
+									<table width="220" cellpadding="0" cellspacing="0" border="0" style="padding-left: 10px; font-family: Verdana, Arial, sans-serif;">
 										<tr>
 											<td>
-												<span style="font-size: 24px; color: #be1e2d; display: block; margin: 10px 0px;">`fname`,</span>
+												<span style="font-size: 24px; color: #be1e2d; display: block; margin: 10px 0px;">`firstName`,<br /><br /></span>
 												<span style="font-size: 14px; color: #000001; display: block; margin: 0px 0px 10px 0px;">
 													We noticed you still have items in your cart.<br /><br />
 													Order now and become an awesome person.<br /><br />
@@ -129,19 +134,12 @@ POST-->
 												<table cellpadding="0" cellspacing="0" border="0">
 													<tr>
 														<!-- cta button -->
-														<td width="140">
-															<a href="https://www.mrsfields.com/" title="" target="_blank">
+														<td>
+															<a href="https://www.mrsfields.com/account/login/" title="" target="_blank">
 																<img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/5d8efb467b8e.jpg" width="140" height="30" />
 															</a>
 														</td>
-														<!-- text -->
-														<td>
-															<span style="font-size: 10px; align: left; padding-left: 10px; display: block;">
-																Not logged in?<br />
-																Click <a href="https://www.mrsfields.com/account/login/" target="_blank" style="color: #be1e2d;">here.</a>
-															</span>
-														</td>
-													</tr>
+													</tr>												
 												</table>
 											</td>
 										</tr>
@@ -154,19 +152,19 @@ POST-->
 
 								<!-- right column -->
 								<td>
-									<table width="250" cellpadding="0" cellspacing="0" border="0" align="right">
+									<table width="240" cellpadding="5" cellspacing="0" border="0" align="right" style="font-family: Verdana, Arial, sans-serif;">
 										<tr>
 											<td valign="top" align="right">
-												<a href="`abandonedHref`" title="`abandonedTitle`" target="_blank">
-													<img style="display: block; border: none;" src="`abandonedThumb`" width="250" height="250" />
+												<a href="#" title="`title_short`" target="_blank">
+													<img style="display: block; border: none;" src="`product_url`" width="250" height="250" />
 												</a>
 											</td>
 										</tr>
 										<tr>
 											<td style="font-size: 12px; color: #000001; text-align: center; padding-top: 10px;">
-												<a href="`abandonedHref`" title="" target="_blank" style="text-decoration: none; color: #000001;">
-													<span style="color: #be1e2d; text-transform: uppercase; font-weight: 600;">`abandonedTitle`</span><br />
-													`abandonedTotal`
+												<a href="#" title="title_short" target="_blank" style="text-decoration: none; color: #000001;">
+													<span style="color: #be1e2d; text-transform: uppercase; font-weight: 600;">`title_short`</span><br />
+													`price`
 												</a>
 											</td>
 										</tr>
@@ -284,9 +282,10 @@ POST-->
 							
 							<tr>
 								<!-- UNSUBSCRIBE -->
-								<td width="500" align="center" style="padding-bottom: 15px; color: #a7a9ab;">
+								<td width="500" align="center" style="padding: 0px 10px 15px 10px; color: #a7a9ab;">
 									<span style="font-size: 13px; line-height: 16px; color: #a7a9ab;">
-										Be sure to add Mrs. Fields Gifts mrsfieldsgifts<span>@</span>email-mrsfields<span>.com</span> to your address book or safe sender list so our emails get to your inbox.
+										Be sure to add Mrs. Fields Gifts mrsfieldsgifts<span>@</span>email-mrsfields<span>.com</span><br />
+										to your address book or safe sender list so our emails get to your inbox.<br />
 										If you wish to be removed from our email list <a href="https://email-mrsfields.com/unsubscribe.jsp" target="_blank" title="Unsubscribe" style="color: #a7a9ab;">click here</a>.<br />
 									</span>
 								</td>
