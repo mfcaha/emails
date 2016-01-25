@@ -49,7 +49,7 @@
                 
                     <!-- SMALL TEXT -->
                     <table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; color: #666666; font-size: 10px;">
-                        <tr><td align="left">Live your life without regret!&nbsp;</td>
+                        <tr><td align="left">Hurry, Offer Ends Tonight!&nbsp;</td>
                             <td align="right">
                                 View In <a href="@HTML_PREVIEW_LINK&msgVersion=web" target="_blank" title="View in browser" style="color: #666666; text-decoration: underline; font-size: 10px;">Browser</a>&nbsp;
                             </td>
@@ -68,7 +68,7 @@
                     </table>
 
                     <!-- TOP NAV -->
-                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 5px auto 0px auto;">
+                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; border-bottom: 1px dotted #ebebeb;">
                         <tr>
                             <td class="nav" align="center" style="text-align: center; margin: 10px 0px; padding: 0px; font-size: 90%;">
                                 <a href="https://www.mrsfields.com/email/?id=16beb&link=/search/?q=candy&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Nav&utm_campaign=16beb" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">CANDY</a>
@@ -86,8 +86,6 @@
                 </td>
             </tr>
         </table>
-                
-        <hr style="border: 1px dotted #ebebeb;" />
 
         <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 10px auto 0px auto; min-width: 500px;">
             <tr>
@@ -252,7 +250,7 @@
                               <center>
                                 <p><br />
                                     <b>Enjoy FREE SHIPPING on your next order of $75+ from mrsfields.com.<br />
-                                    Also save 15% off your next order from mrsfields.com.</b><br/><br/>
+                                    Save $5 on your next order from mrsfields.com when you spend $35+.</b><br/><br/>
                                     Must use code VDAY at checkout to receive discount. <br />
                                     Offer valid through 01/29/2016 at 2am EST.<br />
                                     <br />
