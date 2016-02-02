@@ -5,8 +5,23 @@
     <head>
         <title>Mrs Fields Gourmet Cookies, Gift Baskets, Birthday Gifts & Thank You Gifts</title>
         <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+        
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+        
         <style type="text/css">
             
+            /* Type styles for all clients */
+            h1 {
+                font-family: Verdana, Arial, sans-serif;
+            }
+
+            /* Type styles for WebKit clients */
+            @media screen and (-webkit-min-device-pixel-ratio:0) {  
+                h1 {
+                  font-family: "Montserrat", Verdana, Arial, sans-serif !important;
+                }
+            }
+
             /* smartphones, iphone, portrait 480x320 phones */
             @media only screen and (min-device-width: 320px) {
                 html { 
@@ -29,7 +44,7 @@
                 .nav { font-size: 14px; font-weight: normal; line-height: 23px; }
             }
 
-            body { background: white; color: #675742; font-family: 'Verdana, Helvetica, Arial, sans-serif;'; }
+            body { background: white; color: #675742; font-family: 'Montserrat, Verdana, Arial, sans-serif;'; }
             div.a a { color: #675742; text-decoration: none; }
             .footergrey { text-decoration: none; color: #666666; display: inline-block;}
             
@@ -49,7 +64,7 @@
                 
                     <!-- SMALL TEXT -->
                     <table width="500" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif; color: #666666; font-size: 10px;">
-                        <tr><td align="left">Hurry, Offer Ends Tonight!&nbsp;</td>
+                        <tr><td align="left">Save 24% Off - Happy Groundhog Day!&nbsp;</td>
                             <td align="right">
                                 View In <a href="@HTML_PREVIEW_LINK&msgVersion=web" target="_blank" title="View in browser" style="color: #666666; text-decoration: underline; font-size: 10px;">Browser</a>&nbsp;
                             </td>
@@ -60,7 +75,7 @@
                     <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 25px auto;">
                         <tr>                
                             <td align="center" valign="bottom">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Logo&utm_campaign=16beb">
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=Logo&utm_campaign=16bee">
                                     <img src="https://www.mrsfields.com/files/h/40ad8f8eaeee.jpg" style="width: 193px; height: 93px; border: none;" alt="Mrs. Fields Gifts" />
                                 </a>
                             </td>
@@ -68,69 +83,127 @@
                     </table>
 
                     <!-- TOP NAV -->
-                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; border-bottom: 1px dotted #ebebeb;">
+                    <table width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 5px auto;">
                         <tr>
                             <td class="nav" align="center" style="text-align: center; margin: 10px 0px; padding: 0px; font-size: 90%;">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/search/?q=candy&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Nav&utm_campaign=16beb" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">CANDY</a>
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/search/?q=candy&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=Nav&utm_campaign=16bee" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">CANDY</a>
                                 &nbsp;<span style="color: #d1d2d4;">|</span>&nbsp;
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/business_gifts/&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Nav&utm_campaign=16beb" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">CORPORATE</a>
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/business_gifts/&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=Nav&utm_campaign=16bee" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">CORPORATE</a>
                                 &nbsp;<span style="color: #d1d2d4;">|</span>&nbsp;
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/birthday_cookie_gifts_baskets&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Nav&utm_campaign=16beb" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">BIRTHDAY</a>
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/birthday_cookie_gifts_baskets&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=Nav&utm_campaign=16bee" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">BIRTHDAY</a>
                                 &nbsp;<span style="color: #d1d2d4;">|</span>&nbsp;
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/thank_you_gifts_baskets&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Nav&utm_campaign=16beb" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">THANK&nbsp;YOU</a>
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/thank_you_gifts_baskets&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=Nav&utm_campaign=16bee" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">THANK&nbsp;YOU</a>
                                 &nbsp;<span style="color: #d1d2d4;">|</span>&nbsp;
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/cookies&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=Nav&utm_campaign=16beb" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">COOKIES</a>
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/cookies&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=Nav&utm_campaign=16bee" style="color: #675742; text-decoration: none; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif;">COOKIES</a>
                             </td> 
                         </tr>
                     </table>
                 </td>
             </tr>
         </table>
+                   
 
-        <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 10px auto 0px auto; min-width: 500px;">
+        <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 5px auto 0px auto; min-width: 500px;">
             <tr>
                 <td width="500" valign="top">
 
-                     <!-- HERO -->
+
+                    <!-- HERO -->
                     <table align="center" cellpadding="0" cellspacing="0" border="0">
                         <tr>
-                            <td valign="top">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=footer&utm_campaign=16beb" target="_blank" title="">
-                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/d10662303cc7.jpg" width="500" border="none" alt="" />
+                            <td valign="top" style="padding-bottom: 10px;">
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" title="">
+                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/9b992bbac1cf.jpg" width="500" border="none" alt="Save 24% - Today Only!" />
                                 </a>
                              </td>
                         </tr>
                     </table>
 
-                    <!-- PRODUCTS -->
+                    <!-- MIDDLE -->
                     <table align="center" cellpadding="0" cellspacing="0" border="0">
                         <tr>
                             <td valign="top">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/gifts/conversations-hearts-box-16&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=footer&utm_campaign=16beb" target="_blank" title="">
-                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/6a4b3e1283fd.jpg" width="166" border="none" alt="Conversations Heart Box" />
-                                </a>
-                             </td>
-                             <td valign="top">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/gifts/Valentines-Round-Cookie-Cake&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=footer&utm_campaign=16beb" target="_blank" title="">
-                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/a7fc3b1bf323.jpg" width="166" border="none" alt="Valentine's Round Cookie Cake" />
-                                </a>
-                             </td>
-                             <td valign="top">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/gifts/hoo-loves-you-box-16&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=footer&utm_campaign=16beb" target="_blank" title="">
-                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/36433a3a0d49.jpg" width="167" border="none" alt="Hoo Loves You Box" />
+                                <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/valentines-day-candy-chocolate-hearts&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" title="">
+                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/64d9957638be.jpg" width="500" border="none" alt="Sweet Valentine Confections" />
                                 </a>
                              </td>
                         </tr>
                     </table>
 
-                    <!-- GIFT CARDS -->
-                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                    <!-- BUCKETS -->
+                    <table align="center" cellpadding="0" cellspacing="0" border="0" style="font-family: Verdana, Arial, sans-serif;">
                         <tr>
                             <td valign="top">
-                                <a href="https://www.mrsfields.com/email/?id=16beb&link=/gifts/gift-card&utm_source=16beb&utm_medium=email&utm_term=valentines&utm_content=footer&utm_campaign=16beb" target="_blank" title="">
-                                    <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/572aa76d8265.jpg" width="500" border="none" alt="Give the Gift of Cookies" />
-                                </a>
-                             </td>
+                                <table width="163" align="left" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td>
+                                            <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/love-bug-bark-bites-tin&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" title="">
+                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/b44a13d0a9e7.jpg" width="163" border="none" alt="Love Bug Bark Bites Tin" />
+                                            </a>
+                                         </td>
+                                    </tr>
+                                    <tr>
+                                         <td valign="top" align="left" width="160">
+                                            <!-- PROD 1 CTA -->
+                                            <table valign="top" align="left" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td valign="top" align="center" bgcolor="#cc3333" width="160" style="height: 52px; max-height: 52px;">
+                                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/love-bug-bark-bites-tin&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" style="font-size: 10px; font-weight: 600; font-family: Verdana, Arial, sans-serif; color: #ffffff; text-decoration: none; padding: 0px; border: 1px solid #cc3333; display: inline-block; text-transform: uppercase; line-height: 14px;"><br />LOVE BUG BARK BITES TIN&nbsp;&nbsp;></a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="5">&nbsp;</td>
+                            <td valign="top" align="left" width="163">
+                                <table cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td valign="top" align="left" width="163">
+                                            <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/all-heart-box-16&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" title="">
+                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/b15c3aac5111.jpg" width="163" border="none" alt="All Heart Box" />
+                                            </a>
+                                         </td>
+                                    </tr>
+                                    <tr>
+                                         <td valign="top" align="left" width="155">
+                                            <!-- PROD 2 CTA -->
+                                            <table valign="top" align="center" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td valign="top" align="center" bgcolor="#cc3333" width="155" style="height: 52px; max-height: 52px;">
+                                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/all-heart-box-16&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" style="font-size: 10px; font-weight: 600; font-family: Verdana, Arial, sans-serif; color: #ffffff; text-decoration: none; padding: 0px; border: 1px solid #cc3333; display: inline-block; text-transform: uppercase; line-height: 14px;"><br />ALL HEART BOX&nbsp;&nbsp;></a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="5">&nbsp;</td>
+                            <td width="164" valign="top">
+                                <table align="right" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                         <td align="left" width="164">
+                                            <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/Classic-Heart-Frosted-Cookies-Tin&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" title="">
+                                                <img style="display: block; border: none;" src="https://www.mrsfields.com/files/h/c6ca165620eb.jpg" width="164" border="none" alt="Classic Heart Frosted Cookies Tin" />
+                                            </a>
+                                         </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign="top" align="left" width="161">
+                                            <!-- PROD 3 CTA -->
+                                            <table valign="top" align="right" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td valign="top" align="center" bgcolor="#cc3333" width="161" style="height: 52px; max-height: 52px;">
+                                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/Classic-Heart-Frosted-Cookies-Tin&utm_source=16bee&utm_medium=email&utm_term=holiday&utm_content=footer&utm_campaign=16bee" target="_blank" style="font-size: 10px; font-weight: 600; font-family: Verdana, Arial, sans-serif; color: #ffffff; text-decoration: none; padding: 0px; border: 1px solid #cc3333; display: inline-block; text-transform: uppercase; line-height: 14px;"><br />CLASSIC HEART FROSTED COOKIES TIN&nbsp;&nbsp;></a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
                         </tr>
                     </table>
 
@@ -207,10 +280,10 @@
                                 <div class="nav" id="footer01">
                                     <span class="footerHead1x" style="color: #666666; font-weight: bold;" valign="top">SIGNATURE GIFTS</span><br />
                                     <span class="footergreyx" style="font-weight: normal;">
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/birthday_cookie_gifts_baskets&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Birthday</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/fall_gifts_collection&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Seasonal Collections</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/thank_you_gifts_baskets&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Special Thanks </a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/Mrs-Fields-Signature&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Signature Gifts</a>
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/birthday_cookie_gifts_baskets&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Birthday</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/fall_gifts_collection&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Seasonal Collections</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/thank_you_gifts_baskets&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey">Special Thanks </a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/Mrs-Fields-Signature&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Signature Gifts</a>
                                     </span>
                                     <br />
                                 </div>
@@ -219,10 +292,10 @@
                                 <div class="nav" id="footer2">
                                     <span class="footerHead1x" style="color: #666666; font-weight: bold;" valign="top">SHOP BY PRODUCT</span><br />
                                     <span class="footergreyx" style="font-weight: normal;">
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/cookies&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Cookies & Nibblers</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/frosted_cookies&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Frosted Cookies</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/brownies&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Brownies</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/gift_tins&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Gift Tins</a>
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/cookies&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Cookies & Nibblers</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/frosted_cookies&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Frosted Cookies</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/brownies&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Brownies</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/gift_tins&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Gift Tins</a>
                                     </span>
                                     <br />
                                 </div>
@@ -231,10 +304,10 @@
                                 <div class="nav" id="footer3">
                                     <span class="footerHead1x" style="color: #666666; font-weight: bold;" valign="top">BUSINESS GIFTS</span><br />
                                     <span class="footergreyx" style="font-weight: normal;">
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/custom-gifts&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Custom Gifts</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/thank_you_gifts_baskets&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Thank You Gifts</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/gifts/Logo-perfect-cookies/205&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">Logo Cookies</a><br />
-                                        <a href="https://www.mrsfields.com/email/?id=16beb&link=/categories/valentines_Preview&utm_source=16beb&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16beb" class="footergrey">valentines Gifts</a>
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/custom-gifts&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Custom Gifts</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/thank_you_gifts_baskets&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Thank You Gifts</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/gifts/Logo-perfect-cookies/205&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Logo Cookies</a><br />
+                                        <a href="https://www.mrsfields.com/email/?id=16bee&link=/categories/Holiday_Preview&utm_source=16bee&utm_medium=email&utm_term=fall&utm_content=footer&utm_campaign=16bee" class="footergrey" style="text-decoration: none;">Holiday Gifts</a>
                                     </span>
                                 </div>
                             </th>
@@ -249,10 +322,9 @@
                             <td style="text-align: center; width: 500px; font-size: 10px; -webkit-text-resize: none; color: #666666; font-family: Verdana, Arial, sans-serif; line-height: 18px;">
                               <center>
                                 <p><br />
-                                    <b>Enjoy FREE SHIPPING on your next order of $75+ from mrsfields.com.<br />
-                                    Save $5 on your next order from mrsfields.com when you spend $35+.</b><br/><br/>
-                                    Must use code VDAY at checkout to receive discount. <br />
-                                    Offer valid through 01/29/2016 at 2am EST.<br />
+                                    <b>TODAY ONLY! - Save 24% on your next order from mrsfields.com.</b><br/>
+                                    Must use code SAVE24 at checkout to receive discount. <br />
+                                    Offer valid through 02/03/2016 at 2am EST.<br />
                                     <br />
                                     Offers only apply to orders under $500 and/or with fewer than 10 recipients.<br />
                                   Not valid with any other discount or on previous orders.<br /><br />
