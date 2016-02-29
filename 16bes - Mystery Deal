@@ -53,31 +53,6 @@
 
         </style>
 
-        <!--POST
-            /* Show user the "Feeling Lucky?" banner with 3 promo options */
-            var srcUrl = "https://www.mrsfields.com/files/h/46795ec7399e.gif";
-            var titleTxt = "Reveal Your Deal";
-
-            /* When user clicks the "Reveal Your Deal" cta, a confirmation banner will replace "Feeling Lucky?" banner */
-            $("#revealDeal").click(function() {
-                var deal = assign random deal; // BRYAN CODE
-                return false;
-            })
-            
-            /* Congrats banners with corresponding deals */
-            if (deal == "10") {
-                srcUrl = "https://www.mrsfields.com/files/h/c3f54926b049.gif";
-                titleTxt = "Congrats! - You've Earned 10% Off";
-            } else if (deal == "15") {
-                srcUrl = "https://www.mrsfields.com/files/h/68dbe8a17c47.gif";
-                titleTxt = "Congrats! - You've Earned 15% Off";
-            } else if (deal =- "20") {
-                srcUrl = "https://www.mrsfields.com/files/h/70e66b29cca0.gif";
-                titleTxt = "Congrats! - You've Earned 20% Off";
-            }
-        POST-->
-
-
     </head>
 
     <body width="500" style="max-width: 500px; margin: 0px auto;">
@@ -129,24 +104,24 @@
             </tr>
         </table>
 
-        <!-- GIF -->
+        <!-- MAIN: GIF -->
         <table align="center" width="" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto 10px auto;">
             <tr>
                 <!-- Show user the "Feeling Lucky?" banner with 3 promo options -->
                 <td valign="top">
-                  <a id="revealDeal" href="#" title="`titleTxt`" target="_blank">
-                    <img style="display: block; border: none;" width="500" src="`srcUrl`" alt="You could save up to 20% off!" />
+                  <a href="https://www.mrsfields.com/email/?id=16bes&link=&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" title="Reveal Your Deal" target="_blank">
+                    <img style="display: block; border: none;" width="500" src="https://www.mrsfields.com/files/h/46795ec7399e.gif" alt="You could save up to 20% off!" />
                   </a>
                 </td>
             </tr>
         </table>
 
-        <!-- Spend Your Reward Banner -->
-        <table align="center" width="" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto 10px auto;">
+        <!-- SubBanner -->
+        <table align="center" width="500" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto 10px auto;">
             <tr>
                 <td valign="top">
-                  <a href="#" title="Spend Your Reward" target="_blank">
-                    <img style="display: block; border: none;" width="500" src="https://www.mrsfields.com/files/h/90dee4be1c42.jpg" alt="You could save up to 20% off!" />
+                  <a href="https://www.mrsfields.com/email/?id=16bes&link=/categories/St_Patricks_Day_Gifts/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" title="Spend Your Reward" target="_blank">
+                    <img style="display: block; border: none;" width="500" src="https://www.mrsfields.com/files/h/98de25a17672.jpg" alt="You could save up to 20% off!" />
                   </a>
                 </td>
             </tr>
@@ -160,14 +135,14 @@
                         <tr>
                             <!-- right col -->
                             <td valign="top" align="left" style="padding-bottom: 10px;">
-                                  <a href="https://www.mrsfields.com/email/?id=16ber&link=/gifts/60-Nibbler-St-Patricks-Day-Tin/&utm_source=16ber&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16ber" title="Shop Now" target="_blank">
+                                  <a href="https://www.mrsfields.com/email/?id=16bes&link=/gifts/60-Nibbler-St-Patricks-Day-Tin/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" title="Shop Now" target="_blank">
                                     <img style="display: block; border: none;" width="150" src="https://admin.mrsfields.com/files/products/4083_150x150.jpg" alt="60 Nibblers St. Patrick's Day Tin" />
                                   </a>
                             </td>
                         </tr>
                          <tr>
                             <td width="160" align="center" valign="top" bgcolor="#ffffff">
-                                <a href="https://www.mrsfields.com/email/?id=16ber&link=/gifts/60-Nibbler-St-Patricks-Day-Tin/&utm_source=16ber&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16ber" target="_blank" style="font-size: 10px; font-family: Verdana, Arial,sans-serif;color: #3daf2c; text-decoration: none; margin-right: 10px;  padding: 3px 8px; background-color: #ffffff; display: inline-block; text-transform: uppercase; font-weight: bold; text-align: center;" title="Shop Now">
+                                <a href="https://www.mrsfields.com/email/?id=16bes&link=/gifts/60-Nibbler-St-Patricks-Day-Tin/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" target="_blank" style="font-size: 10px; font-family: Verdana, Arial,sans-serif;color: #3daf2c; text-decoration: none; margin-right: 10px;  padding: 3px 8px; background-color: #ffffff; display: inline-block; text-transform: uppercase; font-weight: bold; text-align: center;" title="Shop Now">
                                     &nbsp;60 Nibbler St.<br />Patrick's Day Tin&nbsp;<img style="display: inline-block; border: none;" src="https://www.mrsfields.com/files/h/25b8002824ed.png" width="6" height="8"  valign="middle" />&nbsp;
                                </a>
                             </td>
@@ -179,14 +154,14 @@
                         <tr>
                             <!-- right col -->
                             <td valign="top" align="left" style="padding-bottom: 10px;">
-                                  <a href="https://www.mrsfields.com/email/?id=16ber&link=/gifts/Happy-St-Patricks-Day-Cookie-Cake/&utm_source=16ber&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16ber" title="Shop Now" target="_blank">
+                                  <a href="https://www.mrsfields.com/email/?id=16bes&link=/gifts/Happy-St-Patricks-Day-Cookie-Cake/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" title="Shop Now" target="_blank">
                                     <img style="display: block; border: none;" width="150" src="https://admin.mrsfields.com/files/products/1354_150x150.jpg" alt="St. Patrick's Day Basket" />
                                   </a>
                             </td>
                         </tr>
                          <tr>
                             <td width="160" align="center" valign="top" bgcolor="#ffffff">
-                                <a href="https://www.mrsfields.com/email/?id=16ber&link=/gifts/Happy-St-Patricks-Day-Cookie-Cake/&utm_source=16ber&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16ber" target="_blank" style="font-size: 10px; font-family: Verdana, Arial,sans-serif;color: #3daf2c; text-decoration: none; margin-right: 10px;  padding: 3px 8px; background-color: #ffffff; display: inline-block; text-transform: uppercase; font-weight: bold; text-align: center;" title="Shop Now">
+                                <a href="https://www.mrsfields.com/email/?id=16bes&link=/gifts/Happy-St-Patricks-Day-Cookie-Cake/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" target="_blank" style="font-size: 10px; font-family: Verdana, Arial,sans-serif;color: #3daf2c; text-decoration: none; margin-right: 10px;  padding: 3px 8px; background-color: #ffffff; display: inline-block; text-transform: uppercase; font-weight: bold; text-align: center;" title="Shop Now">
                                     &nbsp;St. Patrick's Day Big Cookie Cake&nbsp;<img style="display: inline-block; border: none;" src="https://www.mrsfields.com/files/h/25b8002824ed.png" width="6" height="8" valign="middle" />&nbsp;
                                </a>
                             </td>
@@ -198,14 +173,14 @@
                         <tr>
                             <!-- left col -->
                             <td valign="top" align="right" style="padding-bottom: 10px;">
-                                  <a href="https://www.mrsfields.com/email/?id=16ber&link=/gifts/St-Patricks-Day-Frosted-Basket/&utm_source=16ber&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16ber" title="Shop Now" target="_blank">
+                                  <a href="https://www.mrsfields.com/email/?id=16bes&link=/gifts/St-Patricks-Day-Frosted-Basket/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" title="Shop Now" target="_blank">
                                     <img style="display: block; border: none;" width="150" src="https://admin.mrsfields.com/files/products/4080_150x150.jpg" alt="St. Patrick's Day Frosted Basket" />
                                   </a>
                             </td>
                         </tr>
                          <tr>
                             <td width="160" valign="top" align="center" bgcolor="#ffffff">
-                                <a href="https://www.mrsfields.com/email/?id=16ber&link=/gifts/St-Patricks-Day-Frosted-Basket/&utm_source=16ber&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16ber" target="_blank" style="font-size: 10px; font-family: Verdana, Arial,sans-serif;color: #3daf2c; text-decoration: none; margin-left: 10px; padding: 3px 8px; background-color: #ffffff; display: inline-block; text-transform: uppercase; font-weight: bold; text-align: center;" title="Shop Now">
+                                <a href="https://www.mrsfields.com/email/?id=16bes&link=/gifts/St-Patricks-Day-Frosted-Basket/&utm_source=16bes&utm_medium=email&utm_term=spring&utm_content=footer&utm_campaign=16bes" target="_blank" style="font-size: 10px; font-family: Verdana, Arial,sans-serif;color: #3daf2c; text-decoration: none; margin-left: 10px; padding: 3px 8px; background-color: #ffffff; display: inline-block; text-transform: uppercase; font-weight: bold; text-align: center;" title="Shop Now">
                                     &nbsp;St. Patrick's Day<br />Frosted Basket&nbsp;<img style="display: inline-block; border: none;" src="https://www.mrsfields.com/files/h/25b8002824ed.png" width="6" height="8" valign="middle" />&nbsp;
                                </a>
                             </td>
